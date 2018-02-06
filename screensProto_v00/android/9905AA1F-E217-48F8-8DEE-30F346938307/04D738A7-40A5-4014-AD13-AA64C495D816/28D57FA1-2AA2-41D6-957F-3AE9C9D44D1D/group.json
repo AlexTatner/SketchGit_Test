@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2759341F-1A05-4327-B72D-5CD67C7AC7DA",
+  "do_objectID": "28D57FA1-2AA2-41D6-957F-3AE9C9D44D1D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,32 +13,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 615,
-    "width": 393,
-    "x": 0,
-    "y": 147
+    "height": 44,
+    "width": 44,
+    "x": 317,
+    "y": 11
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "E92CC876-318C-4567-86FC-152BEC3748EC"
+      "class": "shapeGroup",
+      "id": "24809B11-439F-4C05-B2CD-2BFA7ABBA885"
     },
     {
-      "class": "group",
-      "id": "514D7241-D6C1-4A65-BF85-EC2DD67E7A34"
-    },
-    {
-      "class": "group",
-      "id": "869CAB7C-AE2F-4349-9EF0-D2232FCF8878"
+      "class": "bitmap",
+      "id": "9CADE5E9-754D-4958-B2D1-D36DF24C8CA1"
     }
   ],
-  "name": "Journey",
+  "name": "avatar",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

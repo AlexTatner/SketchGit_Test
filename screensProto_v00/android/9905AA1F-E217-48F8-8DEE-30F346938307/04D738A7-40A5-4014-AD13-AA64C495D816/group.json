@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2759341F-1A05-4327-B72D-5CD67C7AC7DA",
+  "do_objectID": "04D738A7-40A5-4014-AD13-AA64C495D816",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,12 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 615,
-    "width": 393,
-    "x": 0,
-    "y": 147
+    "height": 77,
+    "width": 361,
+    "x": 16,
+    "y": 46
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,19 +26,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "E92CC876-318C-4567-86FC-152BEC3748EC"
+      "class": "text",
+      "id": "630F0059-009A-4DD7-9C09-BF73227DCF7E"
+    },
+    {
+      "class": "text",
+      "id": "1F2FEAF0-5930-494A-9049-72D81AB91758"
+    },
+    {
+      "class": "text",
+      "id": "2A7517EE-B852-4CD3-80AC-6AF76FAE84F8"
     },
     {
       "class": "group",
-      "id": "514D7241-D6C1-4A65-BF85-EC2DD67E7A34"
-    },
-    {
-      "class": "group",
-      "id": "869CAB7C-AE2F-4349-9EF0-D2232FCF8878"
+      "id": "28D57FA1-2AA2-41D6-957F-3AE9C9D44D1D"
     }
   ],
-  "name": "Journey",
+  "name": "topNav",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

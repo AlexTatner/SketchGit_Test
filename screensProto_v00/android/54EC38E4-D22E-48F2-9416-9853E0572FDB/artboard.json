@@ -35,7 +35,7 @@
     "y": -171
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -67,7 +67,7 @@
       "id": "B4198FB3-901B-4999-BC51-85B8DE99CF48"
     }
   ],
-  "name": "Bus - On the bus / Stops left (Planned route)",
+  "name": "04onBusBeacon",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
