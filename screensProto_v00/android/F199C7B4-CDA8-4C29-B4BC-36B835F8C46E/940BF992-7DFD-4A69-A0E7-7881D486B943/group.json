@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "940BF992-7DFD-4A69-A0E7-7881D486B943",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 248,
+    "width": 361,
+    "x": 16,
+    "y": 163
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C7BDF789-7607-4E0B-8D57-9EA98223D844"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BFCEF9F5-0958-44DE-8156-088A147E8CB0"
+    },
+    {
+      "class": "group",
+      "id": "90FE1658-AE7B-42DA-9109-51C13BE802C4"
+    },
+    {
+      "class": "group",
+      "id": "F461C403-D88F-4236-93CB-3647439F23F5"
+    },
+    {
+      "class": "group",
+      "id": "ED81E59C-CDC5-46F6-8D0A-D7B1DE587DBF"
+    }
+  ],
+  "name": "busStop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 36,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

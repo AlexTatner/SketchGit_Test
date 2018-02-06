@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "5FDDB5BA-B05E-4A94-9830-104D96B42292",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 361,
+    "x": 16,
+    "y": 451
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "743DAFD5-B5A6-47F4-AAF6-41B81D5BC280"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3ECCDA59-3775-42C8-9D06-FA67FA80C7BD"
+    },
+    {
+      "class": "group",
+      "id": "D931B569-9B54-45D0-863A-42D9603F3706"
+    },
+    {
+      "class": "group",
+      "id": "9463F5CE-BDB1-4745-9EB2-93E73C0053C6"
+    }
+  ],
+  "name": "blackheath",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 36,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
