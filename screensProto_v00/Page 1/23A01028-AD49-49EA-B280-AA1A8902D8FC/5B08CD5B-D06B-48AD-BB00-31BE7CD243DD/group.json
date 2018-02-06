@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "5B08CD5B-D06B-48AD-BB00-31BE7CD243DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 264,
+    "width": 335,
+    "x": 20,
+    "y": 456
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4EA69A8A-BECC-476E-B8C5-449052F46A3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3A75D5F-DEC1-4C99-A0AD-185B70E1BB6C"
+    },
+    {
+      "class": "text",
+      "id": "3115EE83-CFB5-4746-A572-A4EEB474C4ED"
+    },
+    {
+      "class": "group",
+      "id": "492C0270-B0E5-40A3-A28A-D317F109D53D"
+    }
+  ],
+  "name": "tubeStation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 36,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

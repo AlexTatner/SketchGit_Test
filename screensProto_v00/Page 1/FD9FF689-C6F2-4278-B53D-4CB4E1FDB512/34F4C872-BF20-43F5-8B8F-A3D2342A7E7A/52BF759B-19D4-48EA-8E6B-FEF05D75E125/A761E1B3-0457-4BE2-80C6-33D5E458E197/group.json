@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A761E1B3-0457-4BE2-80C6-33D5E458E197",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 44,
+    "x": 277,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7AD1D651-1B40-4DCF-BE8B-2CD1B42A9C75"
+    },
+    {
+      "class": "text",
+      "id": "6053B3D0-16E5-48A4-B742-DFDAC9EB5935"
+    }
+  ],
+  "name": "busStopLetters",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "47EA01B6-3AC4-4148-9E56-ADD1DF365F9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 40,
+    "width": 40,
+    "x": 305,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "67C1DF07-7A3A-472F-9B98-8A272A11F4D6"
+    },
+    {
+      "class": "group",
+      "id": "DD4666F8-6115-4EA4-B935-004A8A1A1E57"
+    }
+  ],
+  "name": "nationalRail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

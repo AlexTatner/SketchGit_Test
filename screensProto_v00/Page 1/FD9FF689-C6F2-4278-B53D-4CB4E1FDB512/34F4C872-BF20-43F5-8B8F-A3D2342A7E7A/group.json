@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "do_objectID": "34F4C872-BF20-43F5-8B8F-A3D2342A7E7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 264,
+    "width": 335,
+    "x": 20,
+    "y": 160
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "51E11FB3-E1E5-4774-95D0-6D25D6E85C00"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF16E034-D5DB-4E67-9E78-0B62C1466940"
+    },
+    {
+      "class": "text",
+      "id": "82D0C711-38FF-40CC-9C7D-741C5DA1D852"
+    },
+    {
+      "class": "group",
+      "id": "0580E229-7CB9-4052-802D-9DD48FE2E682"
+    },
+    {
+      "class": "group",
+      "id": "2812DFC2-DA8E-493B-890E-4480FB5958BE"
+    },
+    {
+      "class": "group",
+      "id": "52BF759B-19D4-48EA-8E6B-FEF05D75E125"
+    }
+  ],
+  "name": "busStop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 36,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

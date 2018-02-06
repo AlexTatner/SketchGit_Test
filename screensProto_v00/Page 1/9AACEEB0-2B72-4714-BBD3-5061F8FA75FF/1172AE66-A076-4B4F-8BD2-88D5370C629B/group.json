@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "1172AE66-A076-4B4F-8BD2-88D5370C629B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 264,
+    "width": 335,
+    "x": 20,
+    "y": 552
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F64AF0DA-27A3-4909-900D-64551A35E874"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7547271A-373B-4D9F-9DB2-E45700B0EEE9"
+    },
+    {
+      "class": "text",
+      "id": "93DB2B9D-2864-47C2-A061-5162C6AA8ECA"
+    },
+    {
+      "class": "group",
+      "id": "00EB7F46-3312-469F-B873-E2FC95DE4274"
+    },
+    {
+      "class": "group",
+      "id": "B2CA1EAE-19A5-4FF4-AD6C-E80F3BA1A7D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "827728B2-8FDC-4831-8903-8CFEA8F58059"
+    },
+    {
+      "class": "group",
+      "id": "7BC917C3-4AE3-4E14-A0F0-0C24841D5513"
+    }
+  ],
+  "name": "tubeStation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 36,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

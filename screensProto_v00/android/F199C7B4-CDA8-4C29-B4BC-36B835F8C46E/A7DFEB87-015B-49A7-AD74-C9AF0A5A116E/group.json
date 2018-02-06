@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "A7DFEB87-015B-49A7-AD74-C9AF0A5A116E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 361,
+    "x": 16,
+    "y": 435
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E9530BFE-9024-47CC-8962-EC23914F829E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1472F23-DC3C-428B-969C-C0CAD393B7F5"
+    },
+    {
+      "class": "group",
+      "id": "612F1977-700F-46F6-9918-0BA905C0D190"
+    },
+    {
+      "class": "group",
+      "id": "5D9AFD12-87CD-47CA-AD53-2C76FC9FB89F"
+    }
+  ],
+  "name": "undergroundStation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 36,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
