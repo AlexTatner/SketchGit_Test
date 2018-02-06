@@ -11,6 +11,18 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+<<<<<<< HEAD
+=======
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+>>>>>>> Alex_Tatner
     ],
     "includedLayerIds": [
     ],
@@ -26,14 +38,22 @@
     "y": -171
   },
   "hasBackgroundColor": true,
+<<<<<<< HEAD
   "hasClickThrough": true,
+=======
+  "hasClickThrough": false,
+>>>>>>> Alex_Tatner
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
+<<<<<<< HEAD
   "includeBackgroundColorInExport": false,
+=======
+  "includeBackgroundColorInExport": true,
+>>>>>>> Alex_Tatner
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -58,7 +78,11 @@
       "id": "986B21D4-7931-4E6D-BCED-792DD5360537"
     }
   ],
+<<<<<<< HEAD
   "name": "busStop Copy",
+=======
+  "name": "02walkingBeacon",
+>>>>>>> Alex_Tatner
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -89,6 +113,15 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+<<<<<<< HEAD
+=======
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+>>>>>>> Alex_Tatner
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

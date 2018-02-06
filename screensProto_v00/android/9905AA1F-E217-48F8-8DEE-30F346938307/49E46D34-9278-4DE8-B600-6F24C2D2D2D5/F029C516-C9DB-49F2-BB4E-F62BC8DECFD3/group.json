@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2759341F-1A05-4327-B72D-5CD67C7AC7DA",
+  "do_objectID": "F029C516-C9DB-49F2-BB4E-F62BC8DECFD3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,36 +13,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 615,
-    "width": 393,
-    "x": 0,
-    "y": 147
+    "height": 80,
+    "width": 80,
+    "x": 27,
+    "y": 0
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
-<<<<<<< HEAD
-  "layerListExpandedType": 1,
-=======
+  "isVisible": false,
   "layerListExpandedType": 0,
->>>>>>> Alex_Tatner
   "layers": [
     {
-      "class": "group",
-      "id": "E92CC876-318C-4567-86FC-152BEC3748EC"
+      "class": "shapeGroup",
+      "id": "CFD1BC15-0D06-44BA-BA13-6C1DAA60EDD5"
     },
     {
-      "class": "group",
-      "id": "514D7241-D6C1-4A65-BF85-EC2DD67E7A34"
-    },
-    {
-      "class": "group",
-      "id": "869CAB7C-AE2F-4349-9EF0-D2232FCF8878"
+      "class": "text",
+      "id": "F5942552-4739-48A5-943B-53A410310576"
     }
   ],
-  "name": "Journey",
+  "name": "Stop code",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

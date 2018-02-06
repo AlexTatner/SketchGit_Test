@@ -35,7 +35,11 @@
     "y": -171
   },
   "hasBackgroundColor": true,
+<<<<<<< HEAD
   "hasClickThrough": true,
+=======
+  "hasClickThrough": false,
+>>>>>>> Alex_Tatner
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -67,7 +71,11 @@
       "id": "B4198FB3-901B-4999-BC51-85B8DE99CF48"
     }
   ],
+<<<<<<< HEAD
   "name": "Bus - On the bus / Stops left (Planned route)",
+=======
+  "name": "04onBusBeacon",
+>>>>>>> Alex_Tatner
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
