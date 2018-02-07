@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 762,
     "width": 393,
-    "x": 1942,
+    "x": 3345,
     "y": -171
   },
   "hasBackgroundColor": true,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -75,7 +75,7 @@
       "id": "5F4D96CB-3BDC-40BC-ABBD-A60B0125F264"
     }
   ],
-  "name": "onTube",
+  "name": "07onTrainBeacon",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
