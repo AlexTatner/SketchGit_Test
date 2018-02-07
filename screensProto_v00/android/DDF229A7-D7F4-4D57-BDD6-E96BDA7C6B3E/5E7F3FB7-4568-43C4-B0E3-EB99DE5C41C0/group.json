@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "5E7F3FB7-4568-43C4-B0E3-EB99DE5C41C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 610,
+    "width": 393,
+    "x": 0,
+    "y": 152
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "244FFB4C-1231-44FD-9159-2D86C280325C"
+    },
+    {
+      "class": "group",
+      "id": "02C4D30E-6290-48E6-B169-FA2BF71372F8"
+    },
+    {
+      "class": "group",
+      "id": "BE9514ED-466C-4ABB-A805-319AD2C33C4A"
+    }
+  ],
+  "name": "Journey",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
