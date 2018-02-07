@@ -34,11 +34,11 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "544659BA-E7B2-4ED0-B616-EB3941EA197D"
+      "id": "EB000B31-9464-4FD0-928C-48269F497DFF"
     },
     {
       "class": "artboard",
-      "id": "8BBA0525-DA0C-4AD2-BC01-751ACD0BC009"
+      "id": "3EE02E56-B5CF-4845-A4A6-E8D36FA7A762"
     },
     {
       "class": "artboard",
@@ -46,11 +46,11 @@
     },
     {
       "class": "artboard",
-      "id": "54EC38E4-D22E-48F2-9416-9853E0572FDB"
+      "id": "8BBA0525-DA0C-4AD2-BC01-751ACD0BC009"
     },
     {
       "class": "artboard",
-      "id": "9905AA1F-E217-48F8-8DEE-30F346938307"
+      "id": "544659BA-E7B2-4ED0-B616-EB3941EA197D"
     }
   ],
   "name": "android",
