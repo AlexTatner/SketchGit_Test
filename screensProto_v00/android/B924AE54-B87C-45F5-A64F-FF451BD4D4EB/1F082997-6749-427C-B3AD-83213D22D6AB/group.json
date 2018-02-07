@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "1F082997-6749-427C-B3AD-83213D22D6AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 361,
+    "x": 16,
+    "y": 684
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6701C6DB-8E7F-4DAF-8049-C8A85EA642F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "341FEEFC-4ED8-4880-B796-FC442F8FA46F"
+    },
+    {
+      "class": "group",
+      "id": "E5A8B3FA-AAE2-435C-A7CE-F080E79D35C4"
+    },
+    {
+      "class": "group",
+      "id": "5EA9278F-A477-4354-80C2-3BA78C2D8FEA"
+    }
+  ],
+  "name": "undergroundStation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 36,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

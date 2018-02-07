@@ -219,6 +219,7 @@
     "appVersion": "48.2",
     "build": 47327,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
 =======
     "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
@@ -227,6 +228,14 @@
     "appVersion": "48.1",
     "build": 47250,
     "commit": "5b9531439a15a8e8d2e29be292655447768783db",
+>>>>>>> Alex_Tatner
+=======
+    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+=======
+    "appVersion": "48.1",
+    "build": 47250,
+    "commit": "5b9531439a15a8e8d2e29be292655447768783db",
+>>>>>>> 64bcd5e98ce9cd9ab70660ddcdee3b7495f2982a
 >>>>>>> Alex_Tatner
     "version": 97
   },
