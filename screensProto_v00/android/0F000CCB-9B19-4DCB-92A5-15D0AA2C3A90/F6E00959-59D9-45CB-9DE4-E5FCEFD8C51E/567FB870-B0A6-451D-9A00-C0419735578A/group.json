@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "567FB870-B0A6-451D-9A00-C0419735578A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 76,
+    "x": 16,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C9434BC9-E3A2-423E-B484-E4955345F6CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D708E37-6C39-4588-82DE-81B96E1E25A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B39CBB2A-280B-44C0-9B15-A539AED4BF75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2FE49D5-0116-4E53-A239-D425B27FB3CC"
+    }
+  ],
+  "name": "train",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
