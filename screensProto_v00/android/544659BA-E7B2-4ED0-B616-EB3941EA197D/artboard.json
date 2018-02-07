@@ -39,9 +39,13 @@
   },
   "hasBackgroundColor": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "hasClickThrough": true,
 =======
   "hasClickThrough": false,
+>>>>>>> Alex_Tatner
+=======
+  "hasClickThrough": true,
 >>>>>>> Alex_Tatner
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,7 +63,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
